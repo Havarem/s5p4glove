@@ -1,4 +1,3 @@
-# Session 5 Project Team 4 Receiver Module
+# Session 5 Project Team 4 Glove Module
 
-This gets the data from the receiver, processes it and sends it to
-the Receiver Ethernet module.
+This module reads the glove inputs, do little processing and sends it to the receiver module.
